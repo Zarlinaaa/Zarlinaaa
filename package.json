@@ -1,5 +1,5 @@
 {
-  "name": "Aldi Official",
+  "name": "ZarlinaComel",
   "version": "11.0.0",
   "description": "Subscribe My Youtube Channel ",
   "main": "connect.js",
@@ -7,7 +7,7 @@
   "scripts": {
     "start": "node connect.js"
   },
-  "author": "Aldi Official WhatsApp",
+  "author": "Zara Official WhatsApp",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
